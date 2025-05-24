@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/57057006?v=4" align="left" height="80" width="80" />  
   
 
-### <div align="center">I'm Max, a full-time Mobile developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Max, a Fullstack-Mobile developer 👨‍💻 working remotely since 2019 🚀</div>  
 
 <br/>  
 
